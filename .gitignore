@@ -4,3 +4,4 @@ Chapter3_Scientific_Numerical_Python/data/GlobAlbedo.1998145.h17v03.nc
 *.pkl
 *.swp
 _build
+uv.lock
